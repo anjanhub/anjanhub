@@ -10,7 +10,7 @@
 ### Skill Set 🛠
 
 **Programming Languages**
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 |--|--|
 
 **Libraries and Frameworks**
