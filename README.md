@@ -1,22 +1,7 @@
-### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anjan👋
+### Hello world!, I am Anjan� <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**anjanhub/anjanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👨🏻‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-!Hello World, I'm Anjan 👋 I'm a 🚀 Software developer 🚀
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anjanhub.anjanhub" alt="visitor badge"/>
-</p>
+💡 &nbsp; I'm a Software Developer at Robert Bosch Engineering and Business Solutions Private Limited, currently working in automotive domain as a fullstack web developer.
+🌱 &nbsp;I'm on track for learning more about Angular and Spring-boot frameworks.\
+✍️ &nbsp;In my free time, I play guitar, video games and pursue photography as my hobbies.\
