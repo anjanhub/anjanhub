@@ -27,6 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>|<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/>|
 |--|--|--|
 
-** Let's Connect :handshake:
+** Let's Connect :handshake: **
 <a href="https://www.linkedin.com/in/anjan04in/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="50" height="50"/></a>
 |-|
