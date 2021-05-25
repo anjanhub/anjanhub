@@ -18,6 +18,8 @@
 |--|--|--|--|
 
 **Databases**
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="Mysql" width="50" height="50"/>
+|--|--|
 
 **Tools**
 
