@@ -23,4 +23,4 @@
 
 **Tools and IDEs**
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>|<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/>|
-|--|--|--|--|
+|--|--|--|
