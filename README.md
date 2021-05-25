@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![Hello World, I'm Anjan 👋 I'm a 🚀 Software developer 🚀]
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=anjanhub.anjanhub" alt="visitor badge"/>
 </p>
