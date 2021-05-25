@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello World, I'm Anjan 👋 I'm a 🚀 Software developer 🚀](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hello World, I'm Anjan 👋 I'm a 🚀 Software developer 🚀]
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
