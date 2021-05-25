@@ -10,5 +10,5 @@
 ### Skill Set 🛠
 
 **Programming Languages**
-|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
+|--|--|
